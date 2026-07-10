@@ -328,14 +328,22 @@ Building end-to-end software products across education, agriculture, productivit
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/gh-pages/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
-
----
 
 ## Current Focus
 
