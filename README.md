@@ -294,17 +294,17 @@ Building end-to-end software products across education, agriculture, productivit
 <div align="center">
 
 <a href="https://github.com/shauryasankrit05">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shauryasankrit05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="Shaurya's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shauryasankrit05&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="Shaurya's GitHub Stats" />
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img height="180" src="https://streak-stats.demolab.com?user=shauryasankrit05&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A855F7&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="Shaurya's GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=shauryasankrit05&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A855F7&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="Shaurya's GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasankrit05&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6" alt="Shaurya's Top Languages" />
+<a href="https://github.com/shauryasankrit05">
+  <img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shauryasankrit05&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Shaurya's Top Languages" />
 </a>
 
 </div>
@@ -315,9 +315,7 @@ Building end-to-end software products across education, agriculture, productivit
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shauryasankrit05&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="Shaurya's GitHub Trophies" />
-</a>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=shauryasankrit05&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="Shaurya's GitHub Trophies" />
 
 </div>
 
@@ -327,13 +325,11 @@ Building end-to-end software products across education, agriculture, productivit
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryasankrit05&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=Shaurya%27s%20Contribution%20Activity" alt="Shaurya's Contribution Activity Graph" />
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryasankrit05&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=Shaurya%27s%20Contribution%20Activity" alt="Shaurya's Contribution Activity" />
 
 </div>
 
----
+
 
 ## Contribution Snake
 
