@@ -101,7 +101,7 @@ My current engineering interests include:
 
 <div align="center">
 
-[![Cloud DevOps Tooling](https://skillicons.dev/icons?i=aws,vercel,netlify,docker,git,github,githubactions,linux,vscode,figma,postman&theme=dark)](https://skillicons.dev)
+[![Cloud DevOps Tooling](https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,githubactions,linux,vscode,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
