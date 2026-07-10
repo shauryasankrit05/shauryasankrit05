@@ -311,15 +311,7 @@ Building end-to-end software products across education, agriculture, productivit
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=shauryasankrit05&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="Shaurya's GitHub Trophies" />
-
-</div>
-
----
 
 ## Contribution Activity
 
