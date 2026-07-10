@@ -1,479 +1,474 @@
-# 🌾 Agriculture Helper App
+<div align="center">
 
-A comprehensive web application designed to empower farmers with instant access to crop information, seed data, temperature requirements, fertilizer recommendations, and crop calendars. Built with modern web technologies for a responsive, intuitive experience.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,45:4C1D95,75:6D28D9,100:312E81&text=SHAURYA%20SANKRIT&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Product%20Developer&descAlignY=58&descSize=17&animation=fadeIn" alt="Shaurya Sankrit Header" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=55&lines=Engineering+intelligent%2C+scalable+digital+products;Building+AI-powered+and+full-stack+applications;Turning+complex+problems+into+reliable+software;Learning+deeply.+Building+consistently.+Shipping+boldly." alt="Typing SVG" />
+</a>
 
-## 📋 Table of Contents
+<br/>
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#quick-start)
-- [File Structure](#file-structure)
-- [Usage Guide](#usage-guide)
-- [Database Schema](#database-schema)
-- [API Reference](#api-reference)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+<img src="https://img.shields.io/badge/STEM-Student-6D28D9?style=flat-square&labelColor=111827" alt="STEM Student" />
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-7C3AED?style=flat-square&labelColor=111827" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-8B5CF6?style=flat-square&labelColor=111827" alt="AI and Machine Learning" />
+<img src="https://img.shields.io/badge/Mindset-Product%20Engineering-A855F7?style=flat-square&labelColor=111827" alt="Product Engineering" />
+<img src="https://img.shields.io/badge/Location-India-6366F1?style=flat-square&labelColor=111827" alt="India" />
 
----
+<br/><br/>
 
-## ✨ Features
+<a href="https://github.com/shauryasankrit05/-My-Portfolio-">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/search/results/people/?keywords=Shaurya%20Sankrit">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:shauryasankrit15@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/shauryasankrit05">
+  <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-### 1. **Crop Search & Discovery**
-   - Search 50+ crops by name or characteristics
-   - Filter by season (Kharif, Rabi, Summer)
-   - View detailed crop information including:
-     - Scientific name
-     - Family classification
-     - Crop duration (days)
-     - Yield expectations
-     - Water requirements
+<br/><br/>
 
-### 2. **Seed Information**
-   - Comprehensive seed data for each crop
-   - Seed rate (kg/hectare)
-   - Germination percentage
-   - Seed viability period
-   - Planting depth and spacing
-   - Seed treatment recommendations
+<img src="https://komarev.com/ghpvc/?username=shauryasankrit05&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/shauryasankrit05?tab=followers">
+  <img src="https://img.shields.io/github/followers/shauryasankrit05?label=FOLLOWERS&style=flat-square&color=8B5CF6&labelColor=111827" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/shauryasankrit05?tab=repositories">
+  <img src="https://img.shields.io/github/stars/shauryasankrit05?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=A855F7&labelColor=111827" alt="GitHub Stars" />
+</a>
 
-### 3. **Temperature & Climate Guide**
-   - Optimal growing temperature ranges
-   - Minimum and maximum thresholds
-   - Critical temperature periods
-   - Frost tolerance information
-   - Regional climate compatibility
-
-### 4. **Fertilizer Management**
-   - NPK (Nitrogen, Phosphorus, Potassium) recommendations
-   - Organic fertilizer alternatives
-   - Application schedule (timing)
-   - Quantity recommendations (kg/hectare)
-   - Pest & disease management notes
-
-### 5. **Crop Calendar**
-   - Season-wise planting timeline
-   - Growth phase tracking
-   - Harvesting windows
-   - Printable calendar view
-   - Interactive month-by-month planning
-
-### 6. **Additional Tools**
-   - Compare multiple crops side-by-side
-   - Save favorite crops for quick access
-   - Unit converter (metric to imperial)
-   - Weather integration ready
-   - Mobile-responsive design
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Frontend:**
-- **React 18+** - UI library
-- **React Router** - Navigation
-- **Tailwind CSS** - Styling
-- **React Icons** - Icon library
-- **Recharts** - Data visualization
-- **Local Storage API** - Data persistence
+I am **Shaurya Sankrit**, a software engineering and AI enthusiast focused on building reliable, user-centered digital products. My work combines **full-stack development, intelligent automation, data-driven interfaces, and thoughtful product engineering**.
 
-**Development:**
-- **Vite** - Build tool (recommended)
-- **Node.js 16+** - Runtime
-- **npm/yarn** - Package manager
+I approach software as more than a collection of features. I focus on the complete engineering lifecycle: understanding the problem, designing maintainable architecture, creating intuitive experiences, protecting user data, measuring performance, and continuously improving the product.
 
-**Database:**
-- **JSON-based** - Easy to migrate to MongoDB/PostgreSQL
+My current engineering interests include:
+
+- Designing scalable and maintainable web applications.
+- Building practical AI and machine-learning workflows.
+- Developing responsive, accessible, and performance-conscious interfaces.
+- Creating data visualization and productivity platforms.
+- Exploring intelligent systems for education, agriculture, and everyday decision-making.
+- Contributing to open-source projects and collaborative engineering communities.
+
+### Open To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributions-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributions" />
+<img src="https://img.shields.io/badge/Software-Engineering%20Opportunities-6D28D9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Software Engineering Opportunities" />
+<img src="https://img.shields.io/badge/AI%2FML-Research%20%26%20Projects-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI ML Projects" />
+<img src="https://img.shields.io/badge/Hackathons-Product%20Collaboration-4F46E5?style=for-the-badge&logo=devpost&logoColor=white" alt="Hackathons" />
+
+</div>
 
 ---
 
-## 🚀 Quick Start
+## Tech Stack
 
-### Prerequisites
-- Node.js 16 or higher
-- npm or yarn package manager
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+### Languages
 
-### Installation
+<div align="center">
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/agriculture-helper.git
-cd agriculture-helper
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
-# 2. Install dependencies
-npm install
-# or
-yarn install
+</div>
 
-# 3. Start development server
-npm run dev
-# or
-yarn dev
+### Frontend
 
-# 4. Open in browser
-# Navigate to http://localhost:5173 (or port shown in terminal)
+<div align="center">
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass,materialui&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+[![Backend and Databases](https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,mysql&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Cloud, DevOps & Tooling
+
+<div align="center">
+
+[![Cloud DevOps Tooling](https://skillicons.dev/icons?i=aws,vercel,netlify,docker,git,github,githubactions,linux,vscode,figma,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Machine Learning Foundations | Intermediate | Supervised learning, model evaluation, feature engineering, preprocessing, classification, and regression workflows |
+| Intelligent Product Development | Intermediate | Designing AI-assisted features around real user problems, explainability, feedback loops, and measurable outcomes |
+| Data Analysis | Intermediate | Data cleaning, exploratory analysis, pattern discovery, statistical reasoning, and actionable insight generation |
+| Recommendation Systems | Developing | Rule-based and ML-assisted recommendations for productivity, agriculture, and personalized user experiences |
+| Natural Language Processing | Developing | Text preprocessing, semantic workflows, classification concepts, prompting, and conversational interfaces |
+| Computer Vision | Exploring | Image classification, object recognition concepts, agricultural diagnostics, and visual intelligence applications |
+| Responsible AI | Developing | Privacy-aware product design, transparent outputs, bias awareness, human oversight, and safe system behavior |
+| MLOps & Deployment | Exploring | Model serving, API integration, monitoring concepts, reproducible workflows, and cloud deployment fundamentals |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Agriculture Helper App — Intelligent Crop & Seed Information Platform</b></summary>
+
+<br/>
+
+A responsive agriculture-focused product designed to help farmers and learners access structured information about crops, seeds, climate requirements, fertilizer planning, and seasonal cultivation.
+
+| Category | Engineering Details |
+|:---|:---|
+| **Stack** | React, React Router, Tailwind CSS, Recharts, JavaScript, JSON, Local Storage |
+| **Scale** | Structured discovery experience designed around 50+ crops and multiple agricultural data categories |
+| **Performance** | Client-side filtering, reusable components, lightweight data access, responsive rendering, and Vite-ready architecture |
+| **Security** | Local-first persistence, no exposed credentials, controlled data structures, and backend migration readiness |
+| **Impact** | Makes complex crop, seed, climate, fertilizer, and calendar information easier to discover and compare |
+| **Repository** | [View Agriculture Helper App](https://github.com/shauryasankrit05/agriculture-helper-app-) |
+
+#### Product Engineering
+
+The platform organizes agricultural knowledge into focused user journeys rather than presenting disconnected information. Users can search crops, filter by season, study seed requirements, review temperature thresholds, understand fertilizer schedules, and plan cultivation through crop calendars.
+
+The architecture separates application components, data sources, utilities, and presentation logic. This makes the project suitable for future migration toward authentication, cloud databases, weather APIs, multilingual support, recommendation models, and offline-first capabilities.
+
+#### Core Capabilities
+
+- Crop search and season-based discovery.
+- Seed rate, germination, viability, depth, and spacing guidance.
+- Temperature thresholds and regional climate compatibility.
+- NPK planning and organic fertilizer alternatives.
+- Crop comparison and seasonal calendar workflows.
+- Responsive interface for mobile and desktop usage.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>JEE Command Center — Premium Productivity Analytics Dashboard</b></summary>
+
+<br/>
+
+A data-driven study command center that transforms daily academic activity into productivity metrics, visual analytics, progress tracking, and actionable recommendations.
+
+| Category | Engineering Details |
+|:---|:---|
+| **Stack** | HTML5, CSS3, JavaScript, Chart.js, Local Storage, Intersection Observer |
+| **Scale** | 22-field daily tracking model, five visualization types, eight metric cards, and a 26-week activity heatmap |
+| **Performance** | Framework-free architecture, controlled chart lifecycle, efficient DOM updates, local persistence, and observer-based animations |
+| **Security** | Safe JSON parsing, local-only data storage, form validation, and no external authentication or credential dependency |
+| **Impact** | Converts fragmented study activity into measurable trends, consistency insights, goals, and personalized recommendations |
+| **Repository** | [View JEE Command Center](https://github.com/shauryasankrit05/tracker-) |
+
+#### Product Engineering
+
+JEE Command Center was designed as a dashboard-first productivity system rather than a basic habit tracker. Its data model captures study hours, question practice, mock-test performance, accuracy, sleep quality, energy, focus, distractions, reflections, and daily priorities.
+
+The analytics layer converts these entries into productivity scores, streaks, consistency measures, weekly totals, focus averages, and recommendation signals. The interface provides charts, goal progress, historical timelines, heatmaps, responsive layouts, theme persistence, and accessible interaction states.
+
+#### Core Capabilities
+
+- Productivity scoring from multiple behavioral signals.
+- Study, question, mock-test, sleep, focus, and distraction tracking.
+- Five Chart.js visualization formats.
+- AI-inspired recommendation and insight engine.
+- GitHub-style 26-week consistency heatmap.
+- Dark-mode persistence and responsive SaaS interface.
+- JSON export and browser-based state management.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Student Notes Manager — Local-First Academic Knowledge Organizer</b></summary>
+
+<br/>
+
+A lightweight and responsive productivity application for creating, searching, filtering, editing, prioritizing, and organizing academic notes directly in the browser.
+
+| Category | Engineering Details |
+|:---|:---|
+| **Stack** | HTML5, CSS3, Vanilla JavaScript, Browser Local Storage |
+| **Scale** | Multi-subject note organization with search, filtering, editing, importance states, and dashboard statistics |
+| **Performance** | Zero-framework implementation, no installation requirements, immediate browser execution, and minimal runtime overhead |
+| **Security** | Local-device persistence, deletion confirmations, no remote file transmission, and no third-party credential exposure |
+| **Impact** | Gives students a simple, accessible system for organizing study information without requiring an account or backend |
+| **Repository** | [View Student Notes Manager](https://github.com/shauryasankrit05/Student-Notes-Manager) |
+
+#### Product Engineering
+
+The application demonstrates how a focused product can deliver meaningful utility without unnecessary infrastructure. Notes are stored locally and remain available after page refreshes, while search and subject filtering make information easy to retrieve.
+
+The project includes editing, deletion safeguards, important-note marking, responsive layouts, and dashboard-level statistics. Its modular feature roadmap supports future additions such as Firebase or Supabase storage, authentication, tags, sorting, dark mode, and import/export functionality.
+
+#### Core Capabilities
+
+- Create and edit structured academic notes.
+- Search across titles, subjects, topics, and descriptions.
+- Filter content by subject or importance.
+- Persist note data through browser storage.
+- Display note, subject, and priority statistics.
+- Run directly in modern browsers without installation.
+
+</details>
+
+---
+
+## Experience
+
+### Independent Software Engineer  
+**Personal Product Engineering Lab**  
+**2025 — Present**
+
+Building end-to-end software products across education, agriculture, productivity, artificial intelligence, and interactive web experiences. Responsible for translating product ideas into functional systems through interface design, architecture planning, implementation, testing, documentation, and iterative improvement.
+
+#### Scope of Work
+
+- Designed responsive applications using React, JavaScript, HTML, CSS, Tailwind CSS, and modern browser APIs.
+- Built structured data models for crop intelligence, study analytics, note management, and productivity tracking.
+- Developed reusable components, search systems, filters, dashboards, charts, activity heatmaps, and local persistence layers.
+- Applied product-engineering principles to user journeys, accessibility, performance, maintainability, and feature prioritization.
+- Explored AI-powered recommendations, prediction systems, natural-language interfaces, and intelligent automation.
+- Produced detailed technical documentation, project architecture, feature roadmaps, and deployment-ready repository structures.
+- Used Git and GitHub for version control, project organization, documentation, and open-source collaboration.
+
+#### Skills
+
+<img src="https://img.shields.io/badge/Product%20Engineering-6D28D9?style=flat-square" alt="Product Engineering" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-7C3AED?style=flat-square" alt="Full Stack Development" />
+<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square" alt="AI ML" />
+<img src="https://img.shields.io/badge/System%20Design-4F46E5?style=flat-square" alt="System Design" />
+<img src="https://img.shields.io/badge/Data%20Visualization-A855F7?style=flat-square" alt="Data Visualization" />
+<img src="https://img.shields.io/badge/Responsive%20Design-6366F1?style=flat-square" alt="Responsive Design" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-5B21B6?style=flat-square" alt="Technical Documentation" />
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|:---:|:---|
+| **Agriculture Product Engineering** | Designed a crop-intelligence platform covering 50+ crops, seed guidance, temperature requirements, fertilizer planning, and crop calendars |
+| **Analytics Dashboard Engineering** | Built a 22-field productivity tracking system with five chart formats, eight metric cards, recommendation logic, and a 26-week heatmap |
+| **Local-First Application Design** | Developed browser-based productivity systems with persistent storage, safe data handling, responsive interfaces, and no mandatory backend |
+| **Full Product Lifecycle Ownership** | Progressed projects from problem definition and architecture through implementation, documentation, testing, and roadmap planning |
+| **Cross-Domain Engineering** | Applied software engineering to education technology, agriculture technology, intelligent productivity, and interactive user experiences |
+| **Technical Documentation** | Produced detailed project documentation covering architecture, data models, usage, design systems, deployment, and future enhancements |
+
+---
+
+## Certifications
+
+### AWS
+
+<a href="https://aws.amazon.com/training/">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20Learning%20Track-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Foundations Learning Track" />
+</a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Preparation-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Preparation" />
+</a>
+
+### Oracle
+
+<a href="https://education.oracle.com/">
+  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations%20Learning%20Track-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundations Learning Track" />
+</a>
+<a href="https://education.oracle.com/oracle-database-training">
+  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations%20Learning-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations Learning" />
+</a>
+
+### NPTEL
+
+<a href="https://nptel.ac.in/">
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Structures-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Programming and Data Structures" />
+</a>
+<a href="https://nptel.ac.in/">
+  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20Foundations-7C3AED?style=for-the-badge&logo=educative&logoColor=white" alt="NPTEL Machine Learning Foundations" />
+</a>
+
+### Cisco
+
+<a href="https://www.netacad.com/">
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics%20Learning%20Track-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics Learning Track" />
+</a>
+<a href="https://www.netacad.com/courses/cybersecurity">
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations%20Learning-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Foundations Learning" />
+</a>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Coding%20Skills-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/shauryasankrit05">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shauryasankrit05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="Shaurya's GitHub Stats" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height="180" src="https://streak-stats.demolab.com?user=shauryasankrit05&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A855F7&currStreakNum=F8FAFC&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="Shaurya's GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasankrit05&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6" alt="Shaurya's Top Languages" />
+</a>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shauryasankrit05&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="Shaurya's GitHub Trophies" />
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryasankrit05&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=Shaurya%27s%20Contribution%20Activity" alt="Shaurya's Contribution Activity Graph" />
+</a>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shauryasankrit05/shauryasankrit05/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+profile:
+  role: "Software Engineering and AI/ML Builder"
+  engineering_philosophy:
+    - "Solve meaningful problems"
+    - "Design before implementation"
+    - "Build for maintainability"
+    - "Measure product impact"
+    - "Improve through iteration"
+
+learning:
+  - "Data Structures and Algorithms"
+  - "Full-Stack System Design"
+  - "Machine Learning and Applied AI"
+  - "Cloud Architecture and DevOps"
+  - "Database Design and API Engineering"
+
+building:
+  - "AI-assisted productivity systems"
+  - "Agriculture technology platforms"
+  - "Education and student tooling"
+  - "Responsive full-stack applications"
+  - "Open-source engineering projects"
+
+exploring:
+  - "Natural Language Processing"
+  - "Computer Vision"
+  - "Recommendation Systems"
+  - "Edge AI and IoT integration"
+  - "Responsible and explainable AI"
+
+open_to:
+  - "Open-source contributions"
+  - "Software engineering collaborations"
+  - "AI and machine-learning projects"
+  - "Hackathons and product challenges"
+  - "Mentorship and engineering communities"
 ```
 
-### Build for Production
+---
 
-```bash
-npm run build
-npm run preview
+## Connect
 
-# Deploy to any static hosting (Netlify, Vercel, GitHub Pages)
-```
+<div align="center">
+
+<a href="mailto:shauryasankrit15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shauryasankrit15%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/search/results/people/?keywords=Shaurya%20Sankrit">
+  <img src="https://img.shields.io/badge/LinkedIn-Shaurya%20Sankrit-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/shauryasankrit05">
+  <img src="https://img.shields.io/badge/GitHub-shauryasankrit05-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://github.com/shauryasankrit05/-My-Portfolio-">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+**Engineering thoughtful systems today that can create meaningful impact tomorrow.**
+
+</div>
 
 ---
 
-## 📁 File Structure
+<div align="center">
 
-```
-agriculture-helper/
-├── src/
-│   ├── components/
-│   │   ├── Navigation.jsx          # Header and navigation menu
-│   │   ├── CropSearch.jsx          # Crop search and filter
-│   │   ├── CropCard.jsx            # Individual crop display
-│   │   ├── CropDetails.jsx         # Detailed crop information
-│   │   ├── SeedInfo.jsx            # Seed information panel
-│   │   ├── TemperatureGuide.jsx    # Temperature requirements
-│   │   ├── FertilizerGuide.jsx     # Fertilizer recommendations
-│   │   ├── CropCalendar.jsx        # Planting calendar
-│   │   └── Comparison.jsx          # Side-by-side comparison tool
-│   ├── data/
-│   │   ├── crops.json              # Crop database
-│   │   ├── fertilizers.json        # Fertilizer data
-│   │   └── calendar.json           # Crop calendar data
-│   ├── utils/
-│   │   ├── searchEngine.js         # Search logic
-│   │   ├── converters.js           # Unit conversions
-│   │   └── helpers.js              # Utility functions
-│   ├── styles/
-│   │   └── globals.css             # Global styles
-│   ├── App.jsx                     # Main app component
-│   └── main.jsx                    # Entry point
-├── public/
-│   ├── favicon.ico
-│   └── manifest.json
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-├── README.md
-└── .gitignore
-```
+### “Great software is built where disciplined engineering meets genuine human need.”
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,45:4C1D95,75:6D28D9,100:312E81" alt="Footer Banner" />
 
-## 📖 Usage Guide
-
-### 1. **Searching for Crops**
-
-```javascript
-// Users can search by:
-- Crop name: "Wheat", "Rice", "Tomato"
-- Season: Filter by Kharif/Rabi/Summer
-- Category: Cereals, Pulses, Vegetables, Cash Crops
-```
-
-**Step-by-step:**
-1. Enter crop name in search box
-2. Apply filters if needed
-3. Click on a crop card to view details
-4. Explore tabs: Overview, Seeds, Temperature, Fertilizers, Calendar
-
-### 2. **Accessing Seed Information**
-
-```javascript
-// Navigate to crop details → Seeds tab
-// View:
-- Seed rate required
-- Germination percentage
-- Viability period
-- Planting depth
-- Row spacing
-- Treatment recommendations
-```
-
-### 3. **Temperature Planning**
-
-```javascript
-// Details → Temperature tab
-// Get guidance on:
-- Optimal temperature range
-- Critical growth periods
-- Frost susceptibility
-- Regional suitability
-```
-
-### 4. **Fertilizer Management**
-
-```javascript
-// Details → Fertilizers tab
-// Learn about:
-- NPK ratios for each growth stage
-- Organic alternatives
-- Application timing
-- Quantity per hectare
-```
-
-### 5. **Planning with Crop Calendar**
-
-```javascript
-// Details → Calendar tab
-// Plan entire season:
-- Planting month
-- Growth phases (vegetative, flowering, maturity)
-- Expected harvest period
-- Print calendar for reference
-```
-
----
-
-## 🗂️ Database Schema
-
-### Crops Collection
-
-```javascript
-{
-  id: "CROP001",
-  name: "Wheat",
-  scientific_name: "Triticum aestivum",
-  family: "Poaceae",
-  season: "Rabi",
-  crop_duration: 120,  // days
-  expected_yield: 50,  // quintal/hectare
-  water_requirement: 450,  // mm
-  soil_type: ["Loamy", "Clay Loam"],
-  ph_range: { min: 6.0, max: 7.5 },
-  
-  seed: {
-    rate: 100,  // kg/hectare
-    germination: 85,  // percentage
-    viability: 2,  // years
-    planting_depth: 5,  // cm
-    spacing: "20x10",  // cm
-    treatment: "Fungicide treated"
-  },
-  
-  temperature: {
-    optimal_min: 15,
-    optimal_max: 25,
-    critical_min: 0,
-    critical_max: 40
-  },
-  
-  fertilizer: [
-    {
-      stage: "Basal",
-      nitrogen: 60,
-      phosphorus: 40,
-      potassium: 40,
-      timing: "At planting"
-    },
-    {
-      stage: "Top dress",
-      nitrogen: 60,
-      timing: "45 days after sowing"
-    }
-  ],
-  
-  calendar: {
-    kharif: { sowing: "Jun-Jul", harvest: "Oct-Nov" },
-    rabi: { sowing: "Oct-Nov", harvest: "Mar-Apr" }
-  }
-}
-```
-
-### Fertilizer Recommendations
-
-```javascript
-{
-  id: "FERT001",
-  name: "DAP (Di-ammonium Phosphate)",
-  type: "Chemical",
-  npk_ratio: "18:46:0",
-  application_rate: 50,  // kg/hectare
-  crops: ["Wheat", "Rice", "Cotton"],
-  price_indicator: "Moderate",
-  organic_alternative: "Bone meal + Vermicompost"
-}
-```
-
----
-
-## 🔌 API Reference
-
-### Component Props & Methods
-
-#### CropSearch Component
-```javascript
-<CropSearch 
-  onCropSelect={(crop) => {}}
-  filters={{ season: 'Rabi', category: 'Cereals' }}
-  onFilterChange={(filters) => {}}
-/>
-```
-
-#### CropDetails Component
-```javascript
-<CropDetails 
-  cropId="CROP001"
-  activeTab="seeds"
-  onCompare={(cropId) => {}}
-/>
-```
-
-#### Comparison Component
-```javascript
-<Comparison 
-  cropIds={["CROP001", "CROP002"]}
-  metrics={['yield', 'water', 'duration']}
-/>
-```
-
-### Utility Functions
-
-```javascript
-// Search Engine
-searchCrops(query, filters)
-  → Returns: Array<Crop>
-
-// Unit Converter
-convertUnits(value, from, to)
-  → kg/hectare ↔ lb/acre
-  → mm ↔ inches
-
-// Calendar Generator
-generateCalendar(cropId, year)
-  → Returns: Array<CalendarEvent>
-
-// Fertilizer Suggester
-suggestFertilizer(cropId, growthStage)
-  → Returns: Array<FertilizerRecommendation>
-```
-
----
-
-## 🔮 Future Enhancements
-
-### Phase 2 (Q1 2025)
-- [ ] Real-time weather API integration (OpenWeatherMap)
-- [ ] Location-based crop recommendations
-- [ ] Multi-language support (Hindi, Regional languages)
-- [ ] Offline-first PWA capabilities
-- [ ] Image recognition for crop/pest identification
-
-### Phase 3 (Q2 2025)
-- [ ] Backend API (Node.js + Express)
-- [ ] User authentication & accounts
-- [ ] Farm management dashboard
-- [ ] Yield prediction ML model
-- [ ] Community forum for farmers
-- [ ] Mobile app (React Native)
-
-### Phase 4 (Q3 2025)
-- [ ] AI chatbot for farmer support
-- [ ] IoT sensor integration
-- [ ] Market price tracking
-- [ ] Government subsidy info
-- [ ] Export data to PDF/CSV
-- [ ] Video tutorials in regional languages
-
----
-
-## 🎨 Design Decisions
-
-### Color Palette
-- **Primary Green**: #16a34a (Earth & Growth)
-- **Dark Slate**: #1e293b (Professional, Trust)
-- **Accent Gold**: #f59e0b (Agriculture, Harvest)
-- **Status Green**: #10b981 (Success, Health)
-- **Warning Orange**: #ef4444 (Caution, Alerts)
-
-### Typography
-- **Display**: "Inter" or "Poppins" (Modern, Readable)
-- **Body**: "Inter" (Clean, Accessible)
-- **Data**: "JetBrains Mono" (Numeric Data)
-
-### Responsive Design
-- **Mobile**: 320px - 640px
-- **Tablet**: 641px - 1024px
-- **Desktop**: 1025px and above
-- Touch-friendly buttons (min 48x48px)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit changes** (`git commit -m 'Add AmazingFeature'`)
-4. **Push to branch** (`git push origin feature/AmazingFeature`)
-5. **Open Pull Request**
-
-### Code Guidelines
-- Follow ESLint rules (`npm run lint`)
-- Write meaningful commit messages
-- Add comments for complex logic
-- Test on mobile before submitting
-
----
-
-## 📞 Support & Feedback
-
-- **Issues**: Report bugs via GitHub Issues
-- **Discussions**: Ask questions in Discussions tab
-- **Email**: support@agrihelper.com
-- **Twitter**: @agrihelperapp
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see LICENSE.md for details.
-
-### Attribution
-Crop data sourced from:
-- National Institute of Agricultural Sciences (NIAS)
-- Indian Council of Agricultural Research (ICAR)
-- FAO Agricultural Database
-
----
-
-## 🙏 Acknowledgments
-
-- **Agricultural Experts** who validated crop information
-- **Farmers** who provided feedback and use cases
-- **Open Source Community** for incredible tools
-- **Contributors** who help improve the app
-
----
-
-## 📊 Project Statistics
-
-- **Crops Covered**: 50+
-- **Languages Ready**: English (Hindi coming soon)
-- **Mobile Support**: 100%
-- **Accessibility Score**: A (WCAG 2.1)
-- **Load Time**: <2s (mobile 4G)
-
----
-
-## 🎯 Project Goals
-
-This app aims to:
-1. ✅ Democratize agricultural knowledge
-2. ✅ Reduce farming input costs
-3. ✅ Increase crop yields through informed decisions
-4. ✅ Promote sustainable farming practices
-5. ✅ Empower small and marginal farmers
-
----
-
-**Made with 🌱 for Indian Farmers | © 2025**
-
+</div>
