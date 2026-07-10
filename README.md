@@ -273,43 +273,6 @@ Building end-to-end software products across education, agriculture, productivit
 
 ---
 
-## Certifications
-
-### AWS
-
-<a href="https://aws.amazon.com/training/">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20Learning%20Track-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Foundations Learning Track" />
-</a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Preparation-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Preparation" />
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/">
-  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations%20Learning%20Track-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundations Learning Track" />
-</a>
-<a href="https://education.oracle.com/oracle-database-training">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations%20Learning-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations Learning" />
-</a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Structures-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Programming and Data Structures" />
-</a>
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20Foundations-7C3AED?style=for-the-badge&logo=educative&logoColor=white" alt="NPTEL Machine Learning Foundations" />
-</a>
-
-### Cisco
-
-<a href="https://www.netacad.com/">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics%20Learning%20Track-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics Learning Track" />
-</a>
-<a href="https://www.netacad.com/courses/cybersecurity">
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations%20Learning-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Foundations Learning" />
-</a>
 
 ---
 
@@ -320,15 +283,7 @@ Building end-to-end software products across education, agriculture, productivit
 <a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Skills-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
+
 
 </div>
 
