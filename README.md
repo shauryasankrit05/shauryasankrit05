@@ -19,7 +19,7 @@
 <a href="https://github.com/shauryasankrit05/-My-Portfolio-">
   <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Shaurya%20Sankrit">
+<a href="www.linkedin.com/in/shaurya-sankrit-49ab5a416">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shauryasankrit15@gmail.com">
