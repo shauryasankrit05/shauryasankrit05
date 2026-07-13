@@ -472,6 +472,13 @@ This is a practical implementation blueprint to go from idea to production.
 - [ ] Monitoring, alerting, and security controls active
 - [ ] Drift detection and retraining loop scheduled
 
+### Starter implementation in this repository
+
+Use `/home/runner/work/shauryasankrit05/shauryasankrit05/ai_starter` for a ready starter with:
+- `train.py` for model training/export
+- `app.py` for FastAPI inference
+- `Dockerfile` for containerized deployment
+
 ---
 
 ## Connect
