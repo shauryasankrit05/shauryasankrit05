@@ -36,7 +36,7 @@ def train_and_save(model_path: Path, test_size: float, random_state: int) -> dic
         "accuracy": round(float(accuracy_score(y_test, predictions)), 4),
         "f1_macro": round(float(f1_score(y_test, predictions, average="macro")), 4),
         "test_size": test_size,
-        "random_state": float(random_state),
+        "random_state": random_state,
     }
 
     model_path.parent.mkdir(parents=True, exist_ok=True)
